@@ -12,7 +12,7 @@ An M.Tech AI research project exploring edge-level differential privacy, randomi
 </p>
 
 <p align="center">
-<a href="https://arjungopalevolveproject.netlify.app/"><b>🌐 Live interactive website</b></a> ·
+<a href="https://aie25039website.netlify.app/"><b>🌐 Live interactive website</b></a> ·
 <a href="docs/project_overview.md">Docs</a> ·
 <a href="results/reports/experiment_report.md">Experiment report</a> ·
 <a href="notebooks">Notebooks</a>
